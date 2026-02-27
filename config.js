@@ -7,7 +7,7 @@ function convertToBool(text, fault = "true") {
 }
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "v8w0zYSY#wIIws1A8C0n7TbdaFLA5OMxOhbJxMccnAmQMmajjuPQ",
+  SESSION_ID: process.env.SESSION_ID || "y24W1IoQ#pxfQKi6cJDYHfF7f_7JX44guQnTcrdC_u_Unfp0o0b0",
   OWNER_NUM: process.env.OWNER_NUM || "94761638379",
   OWNER_NAME: process.env.OWNER_NAME || "Lord Sung",
   REPO: process.env.REPO || "https://github.com/altzzdevs/SUHO-MD", 
